@@ -28,3 +28,8 @@ Below is the data model diagram for the project:
 - **id**: Primary key
 - **name**: Name of the category
 - **description**: Optional category description
+
+### Environment
+- **LAnguage**: NodeJS
+- **Database**: Postgres
+- **API**: Postman 
