@@ -11,7 +11,7 @@ This project manages products and categories in an e-commerce system.
 ## Database Design
 Below is the data model diagram for the project:
 
-![Data Model Diagram](https://www.dropbox.com/scl/fi/x87uu3lnjgokq6hvjdy6x/6Sense.drawio.png?rlkey=7uhtth6140qn44xorf0l5ks02&e=1&st=fi1awcju&dl=0)
+![Data Model Diagram](https://www.dropbox.com/scl/fi/x87uu3lnjgokq6hvjdy6x/6Sense.drawio.png?rlkey=7uhtth6140qn44xorf0l5ks02&e=1&st=fi1awcju&raw=1)
 
 ## Entities
 ### Product
