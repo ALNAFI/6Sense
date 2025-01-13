@@ -30,6 +30,6 @@ Below is the data model diagram for the project:
 - **description**: Optional category description
 
 ### Environment
-- **LAnguage**: NodeJS
+- **Language**: NodeJS
 - **Database**: Postgres
 - **API**: Postman 
