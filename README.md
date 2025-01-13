@@ -32,4 +32,5 @@ Below is the data model diagram for the project:
 ### Environment
 - **Language**: NodeJS
 - **Database**: Postgres
-- **API**: Postman 
+- **API**: Postman
+- **Design**: Draw.io 
